@@ -1,0 +1,32 @@
+body {
+    background-color: olive;
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.friend {
+    padding: 4px;
+    border: 10px; 
+    border-style: solid;
+    background-color: sandybrown;
+}
+
+div {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+img {
+    height: 800px;
+}
+
+p {
+    color: maroon;
+    font-family: Verdana;
+    font-style: italic;
+    font-weight: bold;
+}
